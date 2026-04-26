@@ -34,8 +34,8 @@ BasicsOfJupyter/
 ## Setup
 
 ```bash
-git clone https://github.com/you/project
-cd project
+git clone https://github.com/hluna2/Jupyter-Basics.git
+cd Jupyter-Basics
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
