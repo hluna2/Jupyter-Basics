@@ -63,7 +63,6 @@ jupyter notebook
 - Using `await` directly at the top level
 - Running concurrent tasks with `asyncio.gather()`
 
----
 
 ## Data
 Titanic dataset loaded directly from seaborn via `sns.load_dataset('titanic')`. No file download or setup required.
